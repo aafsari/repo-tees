@@ -1,0 +1,2 @@
+puclic class B{
+}
