@@ -11,6 +11,7 @@ public class main {
         int a;
     }
     public class baCb{
+        int d;
         int a;
     }
 
