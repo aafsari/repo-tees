@@ -12,12 +12,27 @@ public class main {
         int a;
     }
 
+
     public class baDb{
         int d;
         int a;
     }
 
+    public class bjDb{
+        int d;
+        int a;
+    }
 
+
+    public class bgDb{
+        int d;
+        int a;
+    }
+
+    public class bsDb{
+        int d;
+        int a;
+    }
 
     public static void main(String[] args) {
         System.out.println("hi");
