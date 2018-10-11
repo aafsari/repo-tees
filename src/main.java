@@ -10,11 +10,7 @@ public class main {
     }
     public class bbCb{
         int a;
-        int b;
-
     }
-
-
 
 
     public class baDb{
@@ -37,8 +33,6 @@ public class main {
         int d;
         int a;
     }
-
-
 
     public static void main(String[] args) {
         System.out.println("hi");
