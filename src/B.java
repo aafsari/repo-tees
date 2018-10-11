@@ -19,6 +19,8 @@ public class B{
         this.b = b;
     }
 
+    private int anInt;
+
 
 
 }
