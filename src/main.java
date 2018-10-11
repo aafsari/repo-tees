@@ -12,6 +12,10 @@ public class main {
         int a;
     }
 
+    public class  AAA{
+
+    }
+
 
     public class baDb{
         int d;
