@@ -11,7 +11,9 @@ public class main {
     public class bbCb{
         int a;
     }
-
+    public class AbCb{
+        int a;
+    }
     public class  AAA{
 
     }
